@@ -1,0 +1,10 @@
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# General
+.DS_Store?
+.DS_Store
+.AppleDouble
+.LSOverride
