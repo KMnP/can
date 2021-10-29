@@ -30,4 +30,8 @@ python experiments_text.py \
 # ========================================
 # imagenet experiments
 # ========================================
+# step 1: prepare the imagenet logits and targets for training and val set
+python prepare_imagenet.py --out-dir <OUT_DIR> --data-root=<DATA_PATH>
+
+# step 2: get results
 python experiments_visual.py --dataset imagenet
