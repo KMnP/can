@@ -11,9 +11,8 @@ Findings of EMNLP 2021
 Cornell University, Facebook AI
 </span>
 </h4>
-
-<hr>
 **arXiv**: https://arxiv.org/abs/2109.13449
+
 
 <div align="center">
   <img width="70%" alt="teaser" src="images/2021can.png">
